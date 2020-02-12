@@ -349,7 +349,7 @@ Double resultado;
          if(!txtmostrar.getText().equals(""))
         {
             valor1=txtmostrar.getText();
-            signo="Tan";
+            signo="Sin";
             txtmostrar.setText("");
         }
     }                                          
@@ -379,7 +379,7 @@ Double resultado;
         if(!txtmostrar.getText().equals(""))
         {
             valor1=txtmostrar.getText();
-            signo="cos";
+            signo="Cos";
             txtmostrar.setText("");
         }
     }                                          
